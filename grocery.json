@@ -1,0 +1,92 @@
+{
+    "item":[
+        {
+        "SN":"1",
+        "Name":"Potato",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Vegetables",
+        "Notes":"Medium Size"
+      },
+  
+      {"SN":"2",
+      "Name":"Onion",
+      "Quantity":"2",
+      "Unit":"kg",
+      "Department":"Vegetables",
+      "Notes":"Medium Size"
+    },
+  
+    {
+      "SN":"3",
+      "Name":"Apple",
+      "Quantity":"2",
+      "Unit":"kg",
+      "Department":"Fruits",
+      "Notes":"Fresh"
+    },
+  
+    {
+      "SN":"4",
+      "Name":"Notebook",
+      "Quantity":"1",
+      "Unit":"Number",
+      "Department":"Stationary",
+      "Notes":"250 Page Unruled"
+    },
+  
+    {
+      "SN":"5",
+      "Name":"Grapes",
+      "Quantity":"1",
+      "Unit":"kg",
+      "Department":"Fruits",
+      "Notes":"Sweet and Fresh"
+    },
+  
+    {
+      "SN":"6",
+      "Name":"Oil",
+      "Quantity":"1",
+      "Unit":"li",
+      "Department":"Oil",
+      "Notes":"cocunut"
+    },
+  
+    {
+      "SN":"7",
+      "Name":"Hand Wash",
+      "Quantity":"1",
+      "Unit":"Number",
+      "Department":"Health",
+      "Notes":"Life Boy"
+    },
+  
+    {
+      "SN":"8",
+      "Name":"Pen",
+      "Quantity":"1",
+      "Unit":"Number",
+      "Department":"Stationary",
+      "Notes":"Black"
+    },
+  
+    {
+      "SN":"9",
+      "Name":"Soap",
+      "Quantity":"4",
+      "Unit":"Number",
+      "Department":"Health",
+      "Notes":"Life Boy"
+    },
+  
+    {
+      "SN":"10",
+      "Name":"Tea Powder",
+      "Quantity":"2",
+      "Unit":"kg",
+      "Department":"Powder",
+      "Notes":"Kannan Devan"
+    }
+   ]
+  }
